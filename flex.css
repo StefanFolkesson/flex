@@ -1,0 +1,10 @@
+div span {
+    color:hotpink;
+    position: absolute;
+    left:0;
+    top:0;
+/*    margin-left:-100px;  /* NOT GOOD!!!!!!*/
+}
+#andradivven{
+    position: relative;
+}
